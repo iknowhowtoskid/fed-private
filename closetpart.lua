@@ -1,4 +1,4 @@
-register_key = Settings.WHITELIST.Key;
+register_key = getgenv().Key;
 
 
 ([[
